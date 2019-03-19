@@ -11,7 +11,7 @@ import java.net.Socket;
  * This class implements java Socket server
  *
  */
-public class Server {
+public class TcpJavaServer {
     
     //static ServerSocket variable
     private static ServerSocket server;
